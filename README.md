@@ -1,3 +1,3 @@
-
+# Car price prediction using linear regression
 ### Car prices are influenced by dozens of variables — engine size, make, model year, transmission type — making manual valuation inconsistent and time-consuming. This project builds a regression model that learns those relationships from data to predict a car's MSRP, useful for dealerships, buyers, and pricing analysts who need fast, data-driven estimates. Built with Python, NumPy, Pandas, and Scikit-learn in a Jupyter Notebook environment
 
