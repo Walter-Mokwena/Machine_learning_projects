@@ -1,0 +1,3 @@
+# Crdit risk scoring
+
+### problem statement: When people want to borrow money the lender wants to give money to people who have a high probability of paying back the loan. Machine learning can be used to develop a credit risk model that can assess a client's ability to pay back a loan this helps lenders to reduce default rate on loans resulting banks and lenders saving and making more money which is good for business. 
